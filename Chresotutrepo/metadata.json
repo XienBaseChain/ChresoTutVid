@@ -1,0 +1,8 @@
+{
+  "name": "Chreso University Tutorial Repository",
+  "description": "A secure, role-based repository for university tutorial videos and portal links, featuring Staff, Student, and Admin dashboards with immutable audit logging and Supabase-inspired security logic.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
